@@ -8,4 +8,6 @@ Run any script in `scripts`.
 
 Ex: `MACHINE=m5-max-36gb ./scripts/gemma_4_smol.sh`
 
+Change GGUF model paths as you will.
+
 Results are written to the `results` dir
